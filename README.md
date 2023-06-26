@@ -6,6 +6,7 @@ Projects I am/will be working on.
   - ChatboxConsole.py
   - GuessTheNumber.py
   - Pong.py
+  - Jumbler.py
 ---
   Potential/future:
   - JavaScraft.html
